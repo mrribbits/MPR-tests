@@ -10,3 +10,7 @@ From one subject/ 3 different MPRAGE acquisitions:
 
 3- CS MPR - using Siemens WIP: 1mm iso, acc4x	TR=2300, TE=3.15, TI=900, FA=9
 
+
+The Jupyter notebook will load one of the files and compare each accelerated acquisition to the standard one.
+Just comment/uncomment the file you want to load.
+
